@@ -21,7 +21,7 @@ export default function App() {
     btn: {
       margin: '20px',
       paddingLeft: '25px',
-      paddingRight: '25px'
+      paddingRight: '25px',
     }
   }
 
