@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector, useDispatch } from 'react-redux'
-import {IncNumb, DecNumb} from './Actions'
+import {IncNumb, DecNumb} from './Components/Actions'
 
 export default function App() {
 

@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-import store from './Store';
+import store from './Components/Store';
 import { Provider } from 'react-redux';
 
 // store.subscribe(() => console.log(store.getState()))
